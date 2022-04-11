@@ -1,0 +1,21 @@
+
+*{
+    /*font-family: "Noto Sans Armenian";*/
+}
+#welCard{
+    max-width: 550px;
+    margin-top: 150px;
+    padding: 20px 10px 0px 20px;
+    border-radius: 10px;
+    box-shadow: #618ac3 2px 8px 20px 3px;
+}
+
+#welCard:hover {
+    box-shadow: #618ac3 2px 8px 30px 3px;
+}
+#badge{
+    background: #618ac3 !important;
+}
+#btnQues{
+    background: #618ac3;
+}
