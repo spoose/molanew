@@ -27,5 +27,4 @@ app.listen(port, () => {
     console.log(`Server is running on port: $2{port}`);
 =======
     console.log(`Server is running on port2: ${port}`);
->>>>>>> Stashed changes
 });
