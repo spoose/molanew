@@ -23,4 +23,5 @@ app.listen(port, () => {
         if (err) console.error(err);
     });
     console.log(`Server is running on port: ${port}`);
+    console.log(`Server is running on port: $2{port}`);
 });
